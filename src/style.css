@@ -1,0 +1,201 @@
+* {
+    font-family: 'Montserrat';
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* sets 1rem equal to 10px */
+html {
+    font-size: 62.5%;
+}
+/* used all over site */
+.h1-title {
+  font-weight: bold;
+  font-size: 5vh;
+  margin-top: 8vh;
+}
+.h2-title {
+  font-size: 4vh;
+  font-weight: bold;
+}
+
+
+.main-h2 {
+  font-size: 4.5rem;
+  padding-bottom: 6%;
+}
+.main-btn {
+  margin-top: 4%;
+}
+/* General headings & paragraph formatting */
+h3 {
+    font-size: 3rem;
+}
+
+p {
+    font-size: 1.7rem;
+    /* width: 25%; */
+}
+.container-background {
+    padding: 7% 15%;
+}
+/* NavBar */
+
+/* styling-font color navbar a*/
+#navbar {
+  margin-top: 2%;
+}
+a:hover {
+    color: #2f5d62;
+} 
+a{
+  color: black;
+  font-weight: 800;
+    font-size: 2rem;
+    margin-right:2rem;
+    text-decoration: none;
+}
+
+/* mainpage  */
+.flower {
+  width: 60rem;
+  height: 50rem;
+  padding-top: 10rem;
+  padding-left: 10rem;
+}
+
+/* About Me Section */
+/* .aboutme {
+    color:black;
+    margin-top: 3%;
+    margin-bottom: 2%;
+    font-size: 6.5rem;
+    display: block;
+    text-align: center;
+} */
+
+.fact-boxes{
+    margin-bottom: 10%;
+}
+
+#about {
+    position: relative;
+  }
+  
+  .fact-title {
+    font-size: 2.0rem;
+  }
+  
+  .fact-box {
+    padding: 2.5%;
+    text-align: center;
+  }
+  
+  
+  /* font awesome images for facts */
+  
+  .icon-img {
+    color: #2f5d62;
+    margin-bottom: 1rem;
+  }
+  
+  .icon-img:hover {
+    color: #D9BBCF;
+  }
+
+
+  /* Project/work section */
+  
+.border-box-image {
+    background-color: #fff;
+}
+/* refractor with aboutme if time allows*/
+#my-work {
+    color:black;
+    font-size: 4.5rem;
+    display: block;
+    text-align: center; 
+}
+
+  .work-text {
+    font-size: 3rem;
+    line-height: 1.2;
+    color: black;
+    display: inline-block;
+    text-align: center;
+  }
+.work-para {
+    text-align: center;
+    color: black;
+    padding: 3%;
+}
+
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color:#2f5d62;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color:#2f5d62;
+}
+
+.btn {
+    /* width: 25%; */
+    font-size: 1.5rem;
+    border: #2f5d62 2px solid;
+}
+.btn:hover {
+    background-color: #2f5d62;
+    color: #fff;
+}
+  
+  /* images */
+ .card-img-top {
+     width: 100%;
+     height: 60%;
+ }
+ .me-img {
+     height: 25%;
+     width: 25%;
+     border-radius: 100%;
+     margin: 5%;
+ }
+ /* .project-image {
+     height: 95%;
+     width: 45%;
+ } */
+ /* contact page form */
+ .contactForm {
+   width: 70%;
+  background-color: #D9BBCF;
+   font-size: 25px;
+   border: #D9BBCF solid 8px;
+
+ }
+
+ .contact-btn {
+   padding: 5px;
+   
+ }
+
+ /* Resume unordered Lists */
+ .ul {
+   font-size: 2.5vh;
+ }
+
+/* footer social icons */
+.social-icon {
+    margin: 20px 10px;
+    font-size: 25px;
+    color: #2f5d62;
+  }
+/* pricing */
+.Card-Title {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
