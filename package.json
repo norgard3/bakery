@@ -2,7 +2,7 @@
   "name": "bitty-bakery",
   "version": "0.1.0",
   "private": false,
-  "homepage": "",
+  "homepage": "https://norgard3.github.io/bakery/",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
