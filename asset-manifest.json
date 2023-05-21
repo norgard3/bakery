@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b4c4fc5.css",
+    "main.js": "/static/js/main.4611d916.js",
+    "static/js/787.fd637fd5.chunk.js": "/static/js/787.fd637fd5.chunk.js",
+    "static/media/2023mainimage.png": "/static/media/2023mainimage.dfa2bcf59c11124fbe2e.png",
+    "static/media/code.jpg": "/static/media/code.30bdea102188744b5ffe.jpg",
+    "static/media/chessboard.jpg": "/static/media/chessboard.3cd41e88fd3c6c6c5cc7.jpg",
+    "static/media/bittybakeryhummingbird.png": "/static/media/bittybakeryhummingbird.294fffc510defbfd2299.png",
+    "static/media/hockey.jpg": "/static/media/hockey.b713435dd6ec64d042cd.jpg",
+    "static/media/stocks.jpg": "/static/media/stocks.a4deb5035bd6c9f806a9.jpg",
+    "static/media/weather.jpg": "/static/media/weather.ff7d4e6740de66d5fa54.jpg",
+    "static/media/planner.jpg": "/static/media/planner.d6eb25371ef48c0cb4ca.jpg",
+    "static/media/passwordgenerator.jpg": "/static/media/passwordgenerator.03829095763de7108bea.jpg",
+    "index.html": "/index.html",
+    "main.8b4c4fc5.css.map": "/static/css/main.8b4c4fc5.css.map",
+    "main.4611d916.js.map": "/static/js/main.4611d916.js.map",
+    "787.fd637fd5.chunk.js.map": "/static/js/787.fd637fd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b4c4fc5.css",
+    "static/js/main.4611d916.js"
+  ]
+}
